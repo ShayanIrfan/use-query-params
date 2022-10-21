@@ -27,7 +27,7 @@ const IndexPage = () => {
   return (
     <div>
       <div>
-        lorem ADD QUERY PARAM &nbsp;
+        ADD QUERY PARAM &nbsp;
         <Child qureyHandler={handler} />
       </div>
     </div>
